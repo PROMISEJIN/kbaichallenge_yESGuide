@@ -37,4 +37,4 @@
 등급분류별 키워드는 ESG 트렌드나 관심도 파악가능하다. 유의미한 키워드 정보제공으로 ESG 경영 활동 컨설팅에 추가적인 통찰 제공한다.
 ## Team members
 - [임형진](https://github.com/PROMISEJIN)
-- [정희도](https://github.com/)
+- [정희도](https://github.com/Calmdown1)
